@@ -1,8 +1,8 @@
 # Hi, I'm Suraguru 👋
 
-**Data Analyst | Power BI · SQL · Python**
+**Data Analyst | Power BI · SQL · Python· Excel**
 
-Data Analyst with 4+ years of professional experience at Amazon, combining business operations expertise with hands-on data analytics. Skilled in transforming raw data into actionable insights through data cleaning, exploratory analysis, SQL queries, and interactive dashboards. Experienced in analysing sales, customer behaviour, retention, and operational performance to support data-driven decisions.
+Certified Data Analyst with 4+ years at Amazon in quality operations, KPI and SLA tracking, and stakeholder coordination. Skilled in SQL, Python, Power BI, and Excel, with hands-on experience in data cleaning, exploratory analysis, identifying trends, and building interactive dashboards.
 
 ---
 
@@ -16,12 +16,12 @@ Data Analyst with 4+ years of professional experience at Amazon, combining busin
 
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
