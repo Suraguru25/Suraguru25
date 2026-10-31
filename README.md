@@ -1,4 +1,4 @@
-# Hi, I'm Suraguru 
+# Hi, I'm Suraguru 👋
 
 **Data Analyst | Power BI · SQL · Python**
 
@@ -8,11 +8,13 @@ Data Analyst with 4+ years of professional experience at Amazon, combining busin
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraguru) [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat&logo=googlechrome&logoColor=white)](https://suraguru25.github.io/Data-Analyst-Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraguru)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suraguru000@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://suraguru25.github.io/Data-Analyst-Portfolio/)
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -25,11 +27,9 @@ Data Analyst with 4+ years of professional experience at Amazon, combining busin
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=python&logoColor=white)
 
-**Analytical skills:** Data Cleaning & Validation · EDA · Data Modelling & Star Schema · Dashboard Development · Cohort & Retention Analysis · KPI/SLA Monitoring · Root-Cause Analysis · Descriptive Statistics
-
 ---
 
-## Featured Analytics Projects
+## 📁 Featured Analytics Projects
 
 ### ShopNest: Sales & Customer Insights Dashboard
 
@@ -97,7 +97,7 @@ Analysed **541,909 transaction records** using Excel to explore sales performanc
 
 ---
 
-## Professional Experience
+## 💼 Professional Experience
 
 **Digital Content Associate | Amazon**  
 *July 2022 – Present*
@@ -116,7 +116,7 @@ Analysed **541,909 transaction records** using Excel to explore sales performanc
 
 ---
 
-## Education & Certification
+## 🎓 Education & Certification
 
 - **Certified Data Analyst** — Skillovilla, 2026
 - **B.Com in Information Technology** — Nehru Arts and Science College, 2016–2019
@@ -129,10 +129,8 @@ I'm open to Data Analyst opportunities where I can apply my analytical thinking,
 
 ---
 
-## Let's Connect
+## 🔗 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraguru)
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:suraguru000@gmail.com)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat&logo=googlechrome&logoColor=white)](https://suraguru25.github.io/Data-Analyst-Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraguru)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suraguru000@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://suraguru25.github.io/Data-Analyst-Portfolio/)
